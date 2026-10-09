@@ -1,0 +1,6 @@
+# APIキーを含むため絶対にコミットしない
+.env
+
+__pycache__/
+*.pyc
+.claude/settings.local.json
